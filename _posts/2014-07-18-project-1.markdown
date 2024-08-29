@@ -10,6 +10,8 @@ category: Web Development , AI , ROS
 description: >
   목표: ROS와 백엔드 / 프론트를 결합하여 자동 공정을 만들고
   AI를 활용한 물품 정상 / 불량 판별, 웹에서 관제 시스템을 구축합니다.
+  
   구성원: 5명
+  
   프로젝트 세부 내용: [Notion 링크](https://bright-aragon-0a9.notion.site/AI-Smart-AI-Factory-a775ad9aafad4914bf098dd9d4562faa?pvs=4)
 ---

@@ -35,7 +35,7 @@ footer:
   copyright: Dr. Henry Jekyll
   location: 
   social: Around the Web
-  credits: 각오
+  credits:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -50,7 +50,7 @@ address:
   - line: 
 
 # Credits content
-credits: '<a>항상 발전하는 인재가 되겠습니다.</br> 감사합니다.</a>'
+credits: '<a><h3>캬캬캬컄캬캬캬</h3></a>'
 
 # Build settings
 markdown: kramdown

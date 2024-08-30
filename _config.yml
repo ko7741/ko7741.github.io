@@ -50,7 +50,7 @@ address:
   - line: 
 
 # Credits content
-credits: '<a><h3>캬캬캬컄캬캬캬</h3></a>'
+credits: '<a><h3></h3></a>'
 
 # Build settings
 markdown: kramdown
